@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Maria-Jose-11
-- 🔭 I’m studyng at ESFOT EPN.
+- 🔭 I’m studying at ESFOT EPN.
 - 👀 I’m interested in Security, Data Analitycs, 
 - 🌱 I’m currently learning about security 
 - 👯 I’m looking to collaborate on different college projects
