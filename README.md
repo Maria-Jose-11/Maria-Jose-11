@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-# 📊 GitHub Stats:
+# Lenguajes más utilizados:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Jose-11&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -18,6 +18,3 @@
 Maria-Jose-11/Maria-Jose-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Maria-Jose-11&theme=nord&no-frame=false&no-bg=false&margin-w=4)
