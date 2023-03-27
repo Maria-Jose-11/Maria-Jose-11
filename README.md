@@ -4,11 +4,8 @@ Tengo conocimientos en desarrollo web tanto en frontend como backend a través d
 
 # Contactos:
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-chal%C3%A1/) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-chal%C3%A1/) 
 
 # Lenguajes más utilizados:
 
