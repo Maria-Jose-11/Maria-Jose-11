@@ -11,7 +11,7 @@ Tengo conocimientos en desarrollo web tanto en frontend como backend a través d
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Jose-11&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contribuciones
+## 📊 Contribuciones
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maria-Jose-11&theme=dracula)](https://git.io/streak-stats)<br/>
 
