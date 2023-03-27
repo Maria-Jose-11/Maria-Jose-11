@@ -19,8 +19,3 @@ Tengo conocimientos en desarrollo web tanto en frontend como backend a través d
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maria-Jose-11&theme=dracula)](https://git.io/streak-stats)<br/>
 
-
-<!---
-Maria-Jose-11/Maria-Jose-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
