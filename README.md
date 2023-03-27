@@ -13,10 +13,8 @@ Tengo conocimientos en desarrollo web tanto en frontend como backend a través d
 
 ## Contribuciones
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Maria-Jose-11&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maria-Jose-11&theme=dracula)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Jose-11&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!---
 Maria-Jose-11/Maria-Jose-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
