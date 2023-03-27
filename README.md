@@ -6,7 +6,9 @@ Tengo conocimientos en desarrollo web tanto en frontend como backend a través d
 
 📩: mariajochala@gmail.com
 <br>
+<br>
 📞: +593 979308495
+<br>
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-chal%C3%A1/) 
 
