@@ -19,3 +19,5 @@ Tengo conocimientos en desarrollo web tanto en frontend como backend a través d
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maria-Jose-11&theme=dracula)](https://git.io/streak-stats)<br/>
 
+https://github-readme-activity-graph.cyclic.app/graph?username=maria-jose-11&theme=github-compact
+
