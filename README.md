@@ -3,7 +3,7 @@
 Tengo conocimientos en desarrollo web tanto en frontend como backend a través de tecnologías como Laravel, MySQL, PostgresSQL, Ionic y Flutter.
 
 ## Mi portafolio
-<a href="majochala-portafolio.netlify.app" >Portafolio Majo</a>
+<a href="https://majochala-portafolio.netlify.app/project" target="_blank">Portafolio Majo</a>
 
 ## Contactos:
 
